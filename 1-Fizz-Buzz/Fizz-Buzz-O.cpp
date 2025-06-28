@@ -1,4 +1,6 @@
-class Solution {
+// time : O(n)
+// space : O(n)
+class Solution { 
 public:
     vector<string> fizzBuzz(int n) {
     vector<string> result;
